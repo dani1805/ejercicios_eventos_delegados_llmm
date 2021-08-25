@@ -1,0 +1,4 @@
+th {
+    background-color: #8A2BE2 !important; /* Ofrece prioridad a la propiedad */
+    color: white;
+}
